@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Razvan Tudorica</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Razvan Tudorica</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2026 19:54:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello (Again), World!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 20 Mar 2026 19:54:47 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while, but I&amp;rsquo;ve finally dusted off the digital shelves. After a long pause, I decided that a fresh start deserved a completely fresh workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-new-stack&#34;&gt;The new stack&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m now using a modern, developer-centric workflow:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/strong&gt; The world’s fastest static site generator. It turns my Markdown files into a website in milliseconds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Pages:&lt;/strong&gt; No more server maintenance. My site is hosted directly from my repository, providing better security and performance without the &amp;ldquo;self-hosting&amp;rdquo; and wordpress headache.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Version Control:&lt;/strong&gt; Every post is now just a &lt;code&gt;git push&lt;/code&gt; away.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
