@@ -1,0 +1,11 @@
+baseURL = 'https://razvantudorica.net/'
+locale = 'en-us'
+title = 'Razvan Tudorica'
+theme = "beautifulhugo"
+publishDir = "docs"
+
+[Params]
+  homeTitle = "Blog"
+  subtitle = ""
+
+  mainSections = ["posts"]
