@@ -26,7 +26,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: cp CNAME public/CNAME && hugo
+        run: hugo
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -34,7 +34,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./docs
 
       - name: Deploy to GitHub Pages
         id: deployment
