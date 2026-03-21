@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Razvan Tudorica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 19:54:47 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:00:32 +0100</lastBuildDate>
     <atom:link href="https://razvantudorica.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Septica - Android Game</title>
+      <link>https://razvantudorica.net/posts/septica/</link>
+      <pubDate>Sat, 21 Mar 2026 01:00:32 +0100</pubDate>
+      <guid>https://razvantudorica.net/posts/septica/</guid>
+      <description>&lt;p&gt;Septica is a card game that is popular in Romania. Now it is available on Android, so you can play it on your phone.&lt;/p&gt;&#xA;&lt;p&gt;The game is played with a small deck of cards. The goal is to win tricks and collect points. It is usually played by two players, and it requires attention and memory.&lt;/p&gt;&#xA;&lt;p&gt;This Android version lets you play Septica in a simple way. The interface is easy to understand, so you can start playing without difficulty.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello (Again), World!</title>
       <link>https://razvantudorica.net/posts/my-first-post/</link>
