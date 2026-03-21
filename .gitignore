@@ -1,6 +1,6 @@
 # Hugo build output (deployed via GitHub Actions)
-# docs/
-# public/
+docs/
+public/
 
 # Hugo
 .hugo_build.lock
