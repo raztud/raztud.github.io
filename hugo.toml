@@ -8,4 +8,10 @@ publishDir = "docs"
   homeTitle = "Blog"
   subtitle = ""
 
-  mainSections = ["posts"]
+  mainSections = ["posts", "laws-of-software"]
+
+[[menu.main]]
+  identifier = "laws"
+  name = "Laws of Software"
+  url = "/laws-of-software/"
+  weight = 20
